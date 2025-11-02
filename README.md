@@ -1,5 +1,6 @@
-# rep-1
+
 this is my first git repository
+<<<<<<< HEAD
 author :tejasa reethi
 <br>
 hello 
